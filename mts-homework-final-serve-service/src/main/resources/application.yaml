@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: mts-homework-final-application-service
+
+server:
+  port: 7171
+  error:
+    include-message: always
